@@ -3,6 +3,7 @@ jep.python
 jse
 jse.ase
 jse.atom
+jse.atom.data
 jse.cache
 jse.clib
 jse.code
@@ -33,6 +34,7 @@ jsex.mcmc
 jsex.mcts
 jsex.ml
 jsex.nnap
+jsex.nnap.basis
 jsex.rareevent
 jsex.rareevent.atom
 jsex.rareevent.lmp
